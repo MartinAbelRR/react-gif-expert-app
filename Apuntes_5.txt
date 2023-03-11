@@ -1,0 +1,15 @@
+GifExpertApp - Aplicacion
+
+Notas 
+* Solo una pequeña aclaración, si entendí bien el preventDefault, previene el comportamiento del 
+refresh de la página para que no sucede y de esta manera continuar con la ejecución del 
+handleSubmit sin que actualice la página.
+
+*
+Component: Una función que renderiza una parte de la aplicación cuando cambia el 
+estado de algo (Usando hooks).
+
+Custom Hook: Una función que hace algo especifica utilizando el estado (hooks),pero NO renderiza.
+
+Helper: Como su nombre lo induce, una función que ayuda a hacer un proceso 
+especifico, pero no utiliza el estado.
